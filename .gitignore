@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Project specific
+jars/
+anaconda_projects/
+*.pbf
+*.log
+
+# Sensitive
+secrets.toml
+.streamlit/secrets.toml

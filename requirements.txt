@@ -1,0 +1,6 @@
+pandas
+geopandas
+shapely
+jupyterlab
+leafmap
+matplotlib
